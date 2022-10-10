@@ -37,7 +37,6 @@ module.exports = {
   footer:
     'For any question, email me at 12118665@zju.edu.cn',
     'Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.',
-
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
   protectedRoutes: ['/',],
